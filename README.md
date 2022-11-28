@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="Wave.gif" height="55px" width="55px">, I'm Prajjwal Chauhan</h1>
+<h1 align="center">Hi, I'm Prajjwal Chauhan</h1>
 <h3 align="center">
 
 A Passionate Frontened-Developer👨‍💻 | Coder | Learner
@@ -23,7 +23,7 @@ A Passionate Frontened-Developer👨‍💻 | Coder | Learner
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/ujjawalchauhan.chauhan" target="blank"><img align="left" alt="Prajjwal Chauhan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" /></a> <a href="https://t.me/Pranav_Bisaria" target="blank"><img align="left" alt="Pranav Bisaria | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" /></a> <a href="https://www.linkedin.com/in/prajjwal-chauhan-331129232/" target="blank"><img align="left" alt="Prajjwal Chauhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="https://www.instagram.com/_prajjawalpratap_/" target="blank"><img align="left" alt="Prajjwal Chauhan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><br><br>
+<a href="https://www.facebook.com/ujjawalchauhan.chauhan" target="blank"><img align="left" alt="Prajjwal Chauhan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" /></a> <a href="https://www.linkedin.com/in/prajjwal-chauhan-331129232/" target="blank"><img align="left" alt="Prajjwal Chauhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="https://www.instagram.com/_prajjawalpratap_/" target="blank"><img align="left" alt="Prajjwal Chauhan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><br><br>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
