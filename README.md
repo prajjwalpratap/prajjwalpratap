@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="Wave.gif" height="55px" width="55px">, I'm Pranav Bisaria</h1>
-<h3 align="center">¯\_(ツ)_/¯
+<h1 align="center">Hi <img src="Wave.gif" height="55px" width="55px">, I'm Prajjwal Chauhan</h1>
+<h3 align="center">
 
-A Passionate Backend Developer 👨‍💻 | Coder | Learner
+A Passionate Frontened-Developer👨‍💻 | Coder | Learner
 </h3>
 
 
@@ -23,13 +23,9 @@ A Passionate Backend Developer 👨‍💻 | Coder | Learner
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100009328235979" target="blank"><img align="left" alt="Pranav Bisaria | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" /></a> <a href="https://twitter.com/pranavbisaria29" target="blank"><img align="left" alt="Pranav Bisaria | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> <a href="https://t.me/Pranav_Bisaria" target="blank"><img align="left" alt="Pranav Bisaria | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" /></a> <a href="https://www.linkedin.com/in/pranavbisaria/" target="blank"><img align="left" alt="Pranav Bisaria | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="https://www.instagram.com/pranav_bisaria_kayastha/" target="blank"><img align="left" alt="Pranav Bisaria | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><br><br>
+<a href="https://www.facebook.com/ujjawalchauhan.chauhan" target="blank"><img align="left" alt="Prajjwal Chauhan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" /></a> <a href="https://t.me/Pranav_Bisaria" target="blank"><img align="left" alt="Pranav Bisaria | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" /></a> <a href="https://www.linkedin.com/in/prajjwal-chauhan-331129232/" target="blank"><img align="left" alt="Prajjwal Chauhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="https://www.instagram.com/_prajjawalpratap_/" target="blank"><img align="left" alt="Prajjwal Chauhan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><br><br>
 
 ### 🛠 &nbsp;Tech Stack
-
-![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)&nbsp;
-![JWT](	https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -42,7 +38,7 @@ A Passionate Backend Developer 👨‍💻 | Coder | Learner
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pranavbisaria.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-[![Pranav's github activity graph](https://activity-graph.herokuapp.com/graph?username=pranavbisaria&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/pranavbisaria/github-readme-activity-graph)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -53,14 +49,3 @@ A Passionate Backend Developer 👨‍💻 | Coder | Learner
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavbisaria&show_icons=true&locale=en" alt="ankitvats21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavbisaria&" alt="pranavbisaria" /></p>
-- 👋 Hi, I’m @prajjwalpratap
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-prajjwalpratap/prajjwalpratap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
