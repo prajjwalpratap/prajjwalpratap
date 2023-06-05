@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React-js<br><br>🌱 I’m currently learning React-js,Machine-learning<br><br>👯 I’m looking to collaborate on open source contribution<br><br>🤝 I’m looking for help with Experts of Blockchain technology<br><br>👨<br><br>💬 Ask me about anything<br><br>📫 How to reach me Prajjwalmpi2002@gmail.com<br><br>⚡ Fun fact I think I am funny person.<br>
+🔭 I’m currently working on React-js<br><br>🌱 I’m currently learning React-js,Machine-learning<br><br>👯 I’m looking to collaborate on open source contribution<br><br>🤝 I’m looking for help with Experts of Blockchain technology<br><br>💬 Ask me about anything<br><br>📫 How to reach me Prajjwalmpi2002@gmail.com<br><br>⚡ Fun fact I think I am funny person.<br>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="prajjwalpratap" /> </p>
 
